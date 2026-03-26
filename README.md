@@ -41,7 +41,7 @@ A local AI agent that autonomously discovers, retrieves, and analyzes public dat
 
 ```bash
 git clone https://github.com/vijaylaxmidixit/data-research-agent.git
-cd dataset-scout
+cd data-research-agent
 ```
 
 ### 2. Install Ollama and pull models
@@ -108,7 +108,7 @@ python main.py -q "retail transactions" -n 5
 ## Project Structure
 
 ```
-dataset-scout/
+data-research-agent/
 ├── main.py                     # CLI entry point
 ├── .env                        # API keys (git-ignored)
 ├── .env.example                # Template for .env
