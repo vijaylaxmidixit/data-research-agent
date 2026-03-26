@@ -155,6 +155,3 @@ dataset-scout/
 | VS Code | ~1.2 GB |
 | **Total** | **~11.8 GB** |
 
-## License
-
-MIT License — see [LICENSE](LICENSE)
