@@ -1,0 +1,38 @@
+# Environment variables — NEVER commit these
+.env
+*.env.*
+!.env.example
+
+# Local data — stays on your machine only
+data/
+logs/
+
+# Generated reports (optional — remove this line if you want to commit reports)
+reports/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files — auto-generated, not needed in Git
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings (optional — remove if you want to share settings)
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+*.pytest_cache
+
+# Kaggle credentials (extra safety — already covered by .env)
+kaggle.json
