@@ -40,7 +40,7 @@ A local AI agent that autonomously discovers, retrieves, and analyzes public dat
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dataset-scout.git
+git clone https://github.com/vijaylaxmidixit/data-research-agent.git
 cd dataset-scout
 ```
 
